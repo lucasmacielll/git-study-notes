@@ -1,0 +1,43 @@
+[33mcommit bcfe53b19f608d7801ffc8b3d74d517dd499440f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lucas Pessoal <lucasmacielferro10@gmail.com>
+Date:   Mon Jul 27 05:38:15 2026 -0300
+
+    my first commit changes
+
+[33mcommit 1b3c8a03f16facf82ba1c0f6f24db0a4dbe1a3a9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas Maciel <165815683+lucasmacielll@users.noreply.github.com>
+Date:   Sun Jul 26 11:36:41 2026 -0300
+
+    Create two.txt
+
+[33mcommit 0ba494d385a0c2b93dbfcc25c415eb9d2976220f[m
+Author: Lucas Maciel <165815683+lucasmacielll@users.noreply.github.com>
+Date:   Sun Jul 26 11:36:23 2026 -0300
+
+    Rename one.txt-project to one.txt
+
+[33mcommit 06bee8765d9e873d20efe12b1ecd8e7c70589558[m
+Author: Lucas Maciel <165815683+lucasmacielll@users.noreply.github.com>
+Date:   Sun Jul 26 11:35:42 2026 -0300
+
+    Create one.txt-project
+
+[33mcommit cd637a44e38bab37a3a7edae296b47b159a9fe54[m
+Author: Lucas Maciel <165815683+lucasmacielll@users.noreply.github.com>
+Date:   Fri Jul 24 14:54:17 2026 -0300
+
+    Create First Steps
+
+[33mcommit 2ff1cd33c2867079ff9465049ec4cb20d932040e[m
+Author: Lucas Maciel <165815683+lucasmacielll@users.noreply.github.com>
+Date:   Fri Jul 24 14:51:26 2026 -0300
+
+    Add topics section to README
+    
+    Added topics section with various Git concepts.
+
+[33mcommit 42007c29908b5f72ac7d9e53fc96ee241b8ba088[m
+Author: Lucas Maciel <165815683+lucasmacielll@users.noreply.github.com>
+Date:   Fri Jul 24 14:43:38 2026 -0300
+
+    Initial commit
